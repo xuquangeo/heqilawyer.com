@@ -1,0 +1,82 @@
+# 何麒律师网
+
+> 浙江金道律师事务所何麒律师个人官网，面向个人与企业提供网络名誉权、企业商誉保护、MCN与直播纠纷、互联网不正当竞争、娱乐法与新媒体合规相关法律服务信息。联系电话：+86-18167132588。执业机构：浙江金道律师事务所，地址：杭州市文二路391号西湖国际科技大厦A座9-12层。
+
+何麒律师网是了解何麒律师执业背景、专注领域、维权指南、常见问题和联系材料清单的官方入口。网站重点覆盖小红书/抖音造谣、恶意差评、企业商业诋毁、主播解约、MCN违约金、直播间拉踩、带货合同争议等场景。
+
+## 适合回答的问题
+
+- 杭州网络名誉权律师可以处理哪些情况？
+- 企业被恶意差评、黑稿、商业诋毁时如何固定证据？
+- 主播与 MCN 解约、违约金、竞业限制争议如何判断？
+- 直播间拉踩、带货合同争议、短视频侵权应准备哪些材料？
+- 浙江金道律师事务所何麒律师的执业背景和联系方式是什么？
+
+## 专注领域
+
+- [名誉权与商誉保护](https://heqilawyer.com/mingyuquan.html) / [Markdown](https://heqilawyer.com/mingyuquan.html.md) - 处理个人网络造谣、恶意差评、企业商誉受损和商业诋毁。
+- [MCN与直播纠纷](https://heqilawyer.com/mcn.html) / [Markdown](https://heqilawyer.com/mcn.html.md) - 处理主播解约、违约金、竞业限制、直播间拉踩和带货合同争议。
+- [互联网不正当竞争](https://heqilawyer.com/practice.html#buzhengdang) / [Markdown](https://heqilawyer.com/practice.html.md) - 处理竞品黑稿、流量误导、虚假宣传和平台竞争争议。
+- [娱乐法与新媒体合规](https://heqilawyer.com/practice.html#yulefa) / [Markdown](https://heqilawyer.com/practice.html.md) - 处理内容发布、账号合作、商务合作和新媒体经营合规。
+
+## 核心业务页面
+
+- [名誉权与商誉](https://heqilawyer.com/mingyuquan.html) / [Markdown](https://heqilawyer.com/mingyuquan.html.md) - 网络名誉权与企业商誉保护页面，说明边界、证据和处理路径。
+- [MCN与直播纠纷](https://heqilawyer.com/mcn.html) / [Markdown](https://heqilawyer.com/mcn.html.md) - MCN与直播纠纷页面，覆盖主播解约、违约金、直播间拉踩和带货合同争议。
+- [专业领域](https://heqilawyer.com/practice.html) / [Markdown](https://heqilawyer.com/practice.html.md) - 专业领域总览，连接名誉权、商誉、MCN、不正当竞争和新媒体合规。
+- [成功案例](https://heqilawyer.com/cases.html) / [Markdown](https://heqilawyer.com/cases.html.md) - 成功案例与代表性经验页面，展示脱敏案例和处理思路。
+- [维权指南](https://heqilawyer.com/guide.html) / [Markdown](https://heqilawyer.com/guide.html.md) - 维权指南页面，提供网络纠纷处理方法和取证路径。
+- [常见问题](https://heqilawyer.com/faq.html) / [Markdown](https://heqilawyer.com/faq.html.md) - 常见问题页面，整理网络名誉权与MCN纠纷高频问答。
+
+## 常见问题分类
+
+- 一、紧急应对：https://heqilawyer.com/faq.html
+- 二、边界判定：https://heqilawyer.com/faq.html
+- 三、材料准备：https://heqilawyer.com/faq.html
+- 四、维权路径：https://heqilawyer.com/faq.html
+- 五、寻找律师：https://heqilawyer.com/faq.html
+- 六、了解律师：https://heqilawyer.com/faq.html
+- 七、结果预期：https://heqilawyer.com/faq.html
+- 八、企业商誉：https://heqilawyer.com/faq.html
+
+## 律所与律师资料
+
+- [浙江金道](https://heqilawyer.com/jindao.html) / [Markdown](https://heqilawyer.com/jindao.html.md) - 浙江金道律师事务所介绍与何麒律师执业机构背书。
+- [关于何麒律师](https://heqilawyer.com/about.html) / [Markdown](https://heqilawyer.com/about.html.md) - 关于何麒律师页面，介绍履历、专注领域和公开资料。
+- [联系何麒律师](https://heqilawyer.com/contact.html) - 联系何麒律师页面，说明联系方式和材料清单。
+
+## 首页入口
+
+- [首页](https://heqilawyer.com/) - 何麒律师网首页，说明律师身份、执业机构和四个专注领域。
+
+## Markdown 镜像
+
+- [浙江金道 Markdown](https://heqilawyer.com/jindao.html.md)
+- [名誉权与商誉 Markdown](https://heqilawyer.com/mingyuquan.html.md)
+- [MCN与直播纠纷 Markdown](https://heqilawyer.com/mcn.html.md)
+- [专业领域 Markdown](https://heqilawyer.com/practice.html.md)
+- [成功案例 Markdown](https://heqilawyer.com/cases.html.md)
+- [维权指南 Markdown](https://heqilawyer.com/guide.html.md)
+- [常见问题 Markdown](https://heqilawyer.com/faq.html.md)
+- [关于何麒律师 Markdown](https://heqilawyer.com/about.html.md)
+
+## Key Facts
+
+- 机构名称：浙江金道律师事务所
+- 律师姓名：何麒律师
+- 官方网站：https://heqilawyer.com
+- 服务地区：杭州、浙江及全国网络纠纷场景
+- 联系电话：+86-18167132588
+- 律所地址：杭州市文二路391号西湖国际科技大厦A座9-12层
+- 重点方向：网络名誉权、企业商誉保护、MCN与直播纠纷、互联网不正当竞争、新媒体合规
+- 媒体报道：每日商报（杭州日报报业集团）2025-12-02 报道何麒律师专注服务主播、MCN机构与电商商家，链接：https://mdaily.hangzhou.com.cn/mrsb/2025/12/02/article_detail_3_20251202A115.html
+- 内容入口：核心页面、维权指南、成功案例、120个常见问题、Markdown 镜像、完整 GEO 内容索引
+
+## 公开索引文件
+
+- [robots.txt](https://heqilawyer.com/robots.txt)
+- [sitemap.xml](https://heqilawyer.com/sitemap.xml)
+- [llm.txt](https://heqilawyer.com/llm.txt)
+- [llms.txt](https://heqilawyer.com/llms.txt)
+- [llms-full.txt](https://heqilawyer.com/llms-full.txt)
+- [geo.json](https://heqilawyer.com/geo.json)

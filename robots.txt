@@ -1,0 +1,107 @@
+User-agent: *
+Allow: /
+
+# Search crawlers
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# OpenAI crawlers
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: OAI-AdsBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Global AI crawlers
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# China AI crawlers - verified or common tokens
+
+User-agent: KimiBot
+Allow: /
+
+User-agent: Kimi-SearchBot
+Allow: /
+
+User-agent: Kimi-User
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: DeepSeekBot
+Allow: /
+
+User-agent: DeepSeek-Crawler
+Allow: /
+
+# China AI crawlers - best-effort tokens
+
+User-agent: Qwen
+Allow: /
+
+User-agent: Qwen-User
+Allow: /
+
+User-agent: TencentBot
+Allow: /
+
+User-agent: HunyuanBot
+Allow: /
+
+User-agent: HunyuanAide
+Allow: /
+
+User-agent: ZhipuBot
+Allow: /
+
+User-agent: GLM-User
+Allow: /
+
+User-agent: MiniMaxBot
+Allow: /
+
+User-agent: MoonshotBot
+Allow: /
+
+User-agent: MoonshotAI
+Allow: /
+
+User-agent: iFlytekBot
+Allow: /
+
+Sitemap: https://heqilawyer.com/sitemap.xml
