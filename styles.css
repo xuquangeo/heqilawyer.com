@@ -166,6 +166,18 @@ body.nav-open .nav-toggle::after { transform: translate(-50%, -50%) rotate(-45de
   background: rgba(212, 164, 90, 0.08);
 }
 
+.topbar .site-brand {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  flex: 0 1 auto;
+}
+
+.topbar .site-brand:hover {
+  border: 0;
+  background: transparent;
+}
+
 .hero {
   padding: 34px 0 0;
   border-bottom: 1px solid var(--line);
@@ -376,6 +388,56 @@ p { margin: 0 0 14px; color: var(--muted); }
 .stat strong { display: block; font-size: 30px; color: var(--gold-2); margin-bottom: 6px; }
 .stat span { color: var(--muted); font-size: 14px; }
 
+.honor-section {
+  background:
+    radial-gradient(circle at 15% 20%, rgba(212, 164, 90, 0.09), transparent 34%),
+    rgba(255,255,255,0.01);
+}
+
+.honor-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(420px, 1.08fr);
+  gap: 22px;
+  align-items: center;
+}
+
+.honor-copy {
+  max-width: 620px;
+}
+
+.honor-gallery {
+  display: grid;
+  grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
+  gap: 12px;
+  align-items: stretch;
+}
+
+.honor-photo {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid rgba(214, 167, 94, 0.24);
+  border-radius: 8px;
+  background: rgba(255,255,255,0.025);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.2);
+}
+
+.honor-photo img {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  object-fit: contain;
+  object-position: center;
+  background: #0e1013;
+}
+
+.honor-photo figcaption {
+  padding: 10px 12px 12px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
+  border-top: 1px solid rgba(214, 167, 94, 0.18);
+}
+
 .cta-band {
   background: linear-gradient(180deg, rgba(212,164,90,0.09), rgba(255,255,255,0.02));
 }
@@ -470,12 +532,13 @@ p { margin: 0 0 14px; color: var(--muted); }
 
 @media (max-width: 960px) {
   h1 { font-size: 38px; }
-  .hero-grid, .contact-grid, .cards, .three, .four, .stat-row { grid-template-columns: 1fr; }
+  .hero-grid, .contact-grid, .cards, .three, .four, .stat-row, .honor-layout, .honor-gallery { grid-template-columns: 1fr; }
   .hero-figure { max-width: 520px; margin: 0 auto; width: 100%; }
   .hero-focus {
     max-width: none;
   }
   .topbar-inner { min-height: 64px; width: min(100% - 32px, 1120px); }
+  .site-brand { min-width: 0; }
   .site-brand strong { font-size: 26px; }
   .brand-logo { width: 38px; height: 38px; }
   .nav-toggle { display: inline-block; }
@@ -582,7 +645,7 @@ p { margin: 0 0 14px; color: var(--muted); }
     left: 0;
     right: 0;
     bottom: 0;
-    width: 100%;
+    width: auto;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 0;
     padding: 8px 10px calc(8px + env(safe-area-inset-bottom));
