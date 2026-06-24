@@ -655,11 +655,51 @@ p { margin: 0 0 14px; color: var(--muted); }
   padding: 18px;
 }
 
+.wecom-card {
+  display: grid;
+  grid-template-columns: minmax(0, 0.88fr) minmax(280px, 0.52fr);
+  gap: 18px;
+  align-items: center;
+}
+
+.wecom-card h3 {
+  font-size: 24px;
+}
+
+.wecom-qr {
+  display: grid;
+  justify-items: center;
+  gap: 10px;
+  padding: 18px;
+  border: 1px solid rgba(214, 167, 94, 0.24);
+  border-radius: 8px;
+  background: rgba(255,255,255,0.025);
+}
+
+.wecom-qr img {
+  width: min(100%, 220px);
+  height: auto;
+  aspect-ratio: 1 / 1;
+  border-radius: 8px;
+  background: #fff;
+  padding: 10px;
+}
+
+.wecom-qr strong {
+  color: var(--text);
+}
+
+.wecom-qr span {
+  color: var(--muted);
+  font-size: 13px;
+  text-align: center;
+}
+
 .small { font-size: 13px; color: var(--muted); }
 
 @media (max-width: 960px) {
   h1 { font-size: 38px; }
-  .hero-grid, .hero-with-aside .hero-grid, .contact-grid, .cards, .three, .four, .stat-row, .honor-layout, .honor-gallery { grid-template-columns: 1fr; }
+  .hero-grid, .hero-with-aside .hero-grid, .contact-grid, .wecom-card, .cards, .three, .four, .stat-row, .honor-layout, .honor-gallery { grid-template-columns: 1fr; }
   .hero-with-aside .hero-grid { min-height: auto; }
   .firm-proof { width: 100%; max-width: 680px; }
   .hero-figure { max-width: 520px; margin: 0 auto; width: 100%; }
@@ -762,6 +802,9 @@ p { margin: 0 0 14px; color: var(--muted); }
   .faq-item summary { padding: 13px 14px; font-size: 15px; align-items: flex-start; }
   .faq-answer { padding: 0 14px 14px; }
   .qr-box { min-height: 220px; }
+  .wecom-card h3 { font-size: 21px; }
+  .wecom-qr { padding: 14px; }
+  .wecom-qr img { width: min(100%, 210px); }
   .footer { padding: 20px 0 28px; }
   .footer-grid { display: grid; gap: 14px; }
   .foot-links {
